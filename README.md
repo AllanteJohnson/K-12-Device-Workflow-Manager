@@ -35,7 +35,7 @@ Whenever a device is created or updated, Odoo automatically:
 3. Writes a clean, professional summary  
 
 #### Automation Rule Screenshot  
-![Automation Screenshot](./2.png)
+![Automation Screenshot](/2.png)
 
 ---
 
