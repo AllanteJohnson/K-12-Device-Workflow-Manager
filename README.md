@@ -20,9 +20,6 @@ Includes fields for:
 - Last Check-In  
 - **AI Device Summary (auto-generated)**  
 
-#### Model Setup Screenshot  
-![Model Screenshot](https://raw.githubusercontent.com/AllanteJohnson/-K-12-Device-Workflow-Manager/main/1.png)
-
 ---
 
 ## ⚙️ Workflow Automations  
